@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slick Slideshow 0.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-04 00:31+0100\n"
+"PO-Revision-Date: 2011-05-04 00:32+0100\n"
+"Last-Translator: David Stöckl <blackbam@hotmail.de>\n"
+"Language-Team: David Stöckl <blackbam@hotmail.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: F:\\xampp\\htdocs\\phpwp\\wp-content\\plugins\\Plugin Development\\slick-slideshow\\\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: slick-slideshow.php:348
+msgid "About this Plugin:"
+msgstr "Über dieses Plugin:"
+
+#: slick-slideshow.php:350
+msgid "Plugin Homepage"
+msgstr "Plugin Homepage"
+
+#: slick-slideshow.php:351
+msgid "Report a Bug"
+msgstr "Bug melden"
+
+#: slick-slideshow.php:352
+msgid "Suggest a Feature"
+msgstr "Feature vorschlagen"
+
+#: slick-slideshow.php:353
+msgid "Author Homepage"
+msgstr "Homepage des Autors"
+
+#: slick-slideshow.php:355
+msgid "Donations are fair and welcome!"
+msgstr "Wenn dir dieses Plugin gefällt, wäre eine Spende eine faire und erwünschte Sache..."
+
+#: slick-slideshow.php:373
+msgid "The Options have been updated successfully."
+msgstr "Die Einstellungen wurden erfolgreich aktualisiert."
+
+#: slick-slideshow.php:375
+msgid "This Plugin is for the administration and styling of the Slick Slideshow."
+msgstr "Dieses Plugin ist für die Verwaltung und das Aussehen der Slick Slideshow gedacht."
+
+#: slick-slideshow.php:381
+msgid "Slideshow Contents"
+msgstr "Inhalte der Slideshow"
+
+#: slick-slideshow.php:395
+#: slick-slideshow.php:428
+msgid "Image URL"
+msgstr "Bild URL"
+
+#: slick-slideshow.php:396
+#: slick-slideshow.php:428
+msgid "Custom HTML"
+msgstr "Custom HTML"
+
+#: slick-slideshow.php:401
+msgid "Delete this slide"
+msgstr "Diese Folie löschen"
+
+#: slick-slideshow.php:403
+msgid "Yes"
+msgstr "Ja"
+
+#: slick-slideshow.php:404
+msgid "No"
+msgstr "Nein"
+
+#: slick-slideshow.php:451
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: slick-slideshow.php:454
+msgid "Embed JQuery?"
+msgstr "JQuery einbinden?"
+
+#: slick-slideshow.php:459
+msgid "Only set this to false, if you are sure, that JQuery is already embedded by you or another Plugin!"
+msgstr "Diese Option nur auf \"false\" setzen, wenn sicher gestellt ist, das JQuery anderweitig eingebunden wird!"
+
+#: slick-slideshow.php:463
+msgid "Transition Time of Slide Animation in Milliseconds"
+msgstr "Dauer der Animation in Millisekunden"
+
+#: slick-slideshow.php:465
+msgid "The time for a transition in the animation."
+msgstr "Die Zeit für einen Übersetzungsvorgang in der Animation."
+
+#: slick-slideshow.php:469
+msgid "Viewing Time of Slide Animation in Milliseconds"
+msgstr "Zeit für die Ansicht eines Content-Blocks"
+
+#: slick-slideshow.php:471
+msgid "The time for a slide not to move."
+msgstr "Zeit für die Ansicht eines Content-Blocks in der Auto-Animation."
+
+#: slick-slideshow.php:475
+msgid "Autostart"
+msgstr "Autostart"
+
+#: slick-slideshow.php:480
+msgid "If true, the slideshow will automatically start once the page is loaded."
+msgstr "Die Slideshow läuft automatisch los, sobald die Seite geladen ist, wenn dieser Wert auf \"true\" gesetzt wird."
+
+#: slick-slideshow.php:484
+msgid "Slideshow Control Panel"
+msgstr "Slideshow Kontroll-Panel"
+
+#: slick-slideshow.php:489
+msgid "Wether to display the slideshow control panel or not."
+msgstr "Ob der Slideshow-Kontroll Panel (Start/Pause) sichtbar sein soll oder nicht."
+
+#: slick-slideshow.php:493
+msgid "Rewind Slideshow?"
+msgstr "Slideshow-Rewind"
+
+#: slick-slideshow.php:498
+msgid "If true, the slideshow will automatically rewind by going back to the first slide after the last slide was displayed."
+msgstr "Falls dieser Wert auf \"true\" gesestzt wird, beginnt die Slideshow nach dem letzten Content-Block wieder mit dem Ersten."
+
+#: slick-slideshow.php:502
+msgid "Style Options"
+msgstr "Style Optionen"
+
+#: slick-slideshow.php:505
+msgid "Use custom styles?"
+msgstr "Benutzerdefiniertes Stylesheet?"
+
+#: slick-slideshow.php:510
+msgid "If you are not happy with the style options of the backend, you can use custom css."
+msgstr "Falls die Backend-Einstellungen für den Style nicht reichen, kann das CSS manuell bearbeitet und über das Stylesheet eingebunden werden."
+
+#: slick-slideshow.php:514
+msgid "Width"
+msgstr "Breite"
+
+#: slick-slideshow.php:516
+msgid "The width of your Slider in pixels."
+msgstr "Die Breite des Sliders in Pixeln."
+
+#: slick-slideshow.php:520
+msgid "Height"
+msgstr "Höhe"
+
+#: slick-slideshow.php:522
+msgid "The height of your Slider in pixels."
+msgstr "Die Höhe des Sliders in Pixeln."
+
+#: slick-slideshow.php:526
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: slick-slideshow.php:528
+msgid "The background color of your slider. Hexadecimal value with hash key (like #333) or none."
+msgstr "Die Hintergrundfarbe des Sliders. Hexadezimaler Wert mit Raute (z.B. #333) oder \"none\"."
+
+#: slick-slideshow.php:532
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: slick-slideshow.php:534
+msgid "The font color of your Slider. Hexadecimal value."
+msgstr "Die Schriftfarbe im Slider als Hexadezimaler Wert."
+
+#: slick-slideshow.php:538
+msgid "Previous Button URL"
+msgstr "URL für Zurück-Button."
+
+#: slick-slideshow.php:540
+msgid "The image URL for the previous button."
+msgstr "Die Bild-URL für den Weiter-Button."
+
+#: slick-slideshow.php:544
+msgid "Next Button URL"
+msgstr "Bild-URL für den Weiter Button."
+
+#: slick-slideshow.php:546
+msgid "The image URL for the next button."
+msgstr "Bild-URL für den Weiter-Button."
+
+#: slick-slideshow.php:559
+msgid "Changes in your Slick Slideshow Options might require changes in the CSS."
+msgstr "Veränderungen in den Slick-Slideshow-Optionen können Veränderungen im CSS nötig machen."
+
+#: slick-slideshow.php:560
+msgid "Insert these lines of code into your stylesheet and modify carefully:"
+msgstr "Füge die folgenden Zeilen Code in dein CSS-Stylesheet ein und verändere diese mit Bedacht."
+
+#~ msgid "Insert the paths to your images here:"
+#~ msgstr "Hier die URLs zu den Bildern einfügen:"
+
+#~ msgid "(remove content and update to delete)"
+#~ msgstr "(zum Löschen leer lassen)"
+
+#~ msgid "(add content to use)"
+#~ msgstr "(zum Benutzen Inhalte hinzufügen)"
+
+#~ msgid "The image URL for the previous button. Hexadecimal value."
+#~ msgstr "Bild-URL für den Zurück-Button."
